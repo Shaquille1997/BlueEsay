@@ -1,0 +1,21 @@
+body{
+	font-family: segoeUI;
+}
+.page1{
+	background-image: url(pictures/blueasy.jpg);
+}
+.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 100px;
+
+}
+header{
+    background-color: black;
+
+}
+h1 {
+    color: #57c5a0;
+    margin-left: 80px;
+}
